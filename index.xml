@@ -12,14 +12,14 @@
 		<atom:link href="https://wandayusufalvian.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Tulisan Blog Pertamaku!</title>
-			<link>https://wandayusufalvian.github.io/post/tulisan-pertamaku/</link>
+			<title>Pentingnya Kemampuan Menulis Bagi SWE</title>
+			<link>https://wandayusufalvian.github.io/post/pentingnya-kemampuan-menulis-bagi-software-engineer/</link>
 			<pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/post/tulisan-pertamaku/</guid>
+			<guid>https://wandayusufalvian.github.io/post/pentingnya-kemampuan-menulis-bagi-software-engineer/</guid>
 			<description>
 				
-				Alasan yang membuatku ingin menulis
+				Kemampuan menulis selama ini kurang diperhatikan oleh Software Engineer. Namun hal ini  keliru karena kemampuan menulis sangat penting untuk menunjang karir seorang Software Engineer
 				
 			</description>
 		</item>
