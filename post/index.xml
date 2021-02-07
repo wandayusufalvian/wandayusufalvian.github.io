@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="https://wandayusufalvian.github.io/post/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Directory Permission di Linux</title>
+			<link>https://wandayusufalvian.github.io/post/direktory-permission/</link>
+			<pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://wandayusufalvian.github.io/post/direktory-permission/</guid>
+			<description>
+				
+				pengenalan directory permission di linux
+				
+			</description>
+		</item>
 		<item>
 			<title>Pentingnya Kemampuan Menulis Bagi SWE</title>
 			<link>https://wandayusufalvian.github.io/post/pentingnya-kemampuan-menulis-bagi-software-engineer/</link>
@@ -20,18 +32,6 @@
 			<description>
 				
 				Kemampuan menulis selama ini kurang diperhatikan oleh Software Engineer. Namun hal ini  keliru karena kemampuan menulis sangat penting untuk menunjang karir seorang Software Engineer
-				
-			</description>
-		</item>
-		<item>
-			<title>Directory Permission di Linux</title>
-			<link>https://wandayusufalvian.github.io/post/direktory-permission/</link>
-			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-			
-			<guid>https://wandayusufalvian.github.io/post/direktory-permission/</guid>
-			<description>
-				
-				pengenalan directory permission di linux
 				
 			</description>
 		</item>
