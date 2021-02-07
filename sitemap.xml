@@ -3,16 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wandayusufalvian.github.io/post/direktory-permission/</loc>
-    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wandayusufalvian.github.io/tags/linux/</loc>
-    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://wandayusufalvian.github.io/post/pentingnya-kemampuan-menulis-bagi-software-engineer/</loc>
     <lastmod>2021-01-31T00:00:00+00:00</lastmod>
   </url>
@@ -43,6 +33,14 @@
   
   <url>
     <loc>https://wandayusufalvian.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wandayusufalvian.github.io/post/direktory-permission/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wandayusufalvian.github.io/tags/linux/</loc>
   </url>
   
   <url>
