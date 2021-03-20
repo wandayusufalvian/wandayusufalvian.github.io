@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on Yusuf</title>
-		<link>https://wandayusufalvian.github.io/post/</link>
-		<description>Recent content in Posts on wandayusufalvian.github.io</description>
+		<title>career on Yusuf</title>
+		<link>https://wandayusufalvian.github.io/tags/career/</link>
+		<description>Recent content in career on wandayusufalvian.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
 		<lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
 		
-		<atom:link href="https://wandayusufalvian.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://wandayusufalvian.github.io/tags/career/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Chapter 1 : What Is the 10X Rule</title>
@@ -20,18 +20,6 @@
 			<description>
 				
 				Summary from Chapter 1 of The 10X Rule Book
-				
-			</description>
-		</item>
-		<item>
-			<title>Directory Permission in Linux</title>
-			<link>https://wandayusufalvian.github.io/post/directory-permission/</link>
-			<pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
-			
-			<guid>https://wandayusufalvian.github.io/post/directory-permission/</guid>
-			<description>
-				
-				Short Introduction for Directory Permission in Linux
 				
 			</description>
 		</item>
