@@ -13,10 +13,10 @@
 		
 		<item>
 			<title>Chapter 1 : What Is the 10X Rule</title>
-			<link>https://wandayusufalvian.github.io/post/the-10x-rule/</link>
+			<link>https://wandayusufalvian.github.io/post/chapter-1-the-10x-rule/</link>
 			<pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/post/the-10x-rule/</guid>
+			<guid>https://wandayusufalvian.github.io/post/chapter-1-the-10x-rule/</guid>
 			<description>
 				
 				Summary from Chapter 1 of The 10X Rule Book
@@ -36,11 +36,11 @@
 			</description>
 		</item>
 		<item>
-			<title>About</title>
-			<link>https://wandayusufalvian.github.io/about/</link>
+			<title>random notes</title>
+			<link>https://wandayusufalvian.github.io/note/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/about/</guid>
+			<guid>https://wandayusufalvian.github.io/note/</guid>
 			<description>
 				
 				Hugo, the world’s fastest framework for building websites
