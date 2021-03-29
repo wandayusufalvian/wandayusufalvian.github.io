@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="https://wandayusufalvian.github.io/tags/the-10x-rule-book/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Chapter 2 : Why the 10X Rules Is Vital</title>
+			<link>https://wandayusufalvian.github.io/post/chapter-2-the-10x-rule/</link>
+			<pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://wandayusufalvian.github.io/post/chapter-2-the-10x-rule/</guid>
+			<description>
+				
+				Summary from Chapter 2 of The 10X Rule Book
+				
+			</description>
+		</item>
 		<item>
 			<title>Chapter 1 : What Is the 10X Rule</title>
 			<link>https://wandayusufalvian.github.io/post/chapter-1-the-10x-rule/</link>
