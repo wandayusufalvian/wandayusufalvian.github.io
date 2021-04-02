@@ -12,9 +12,21 @@
 		<atom:link href="https://wandayusufalvian.github.io/post/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>ColumnTransformer Implementation</title>
+			<link>https://wandayusufalvian.github.io/post/column-transformer/</link>
+			<pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://wandayusufalvian.github.io/post/column-transformer/</guid>
+			<description>
+				
+				Quick Implementation of Column Transformer
+				
+			</description>
+		</item>
+		<item>
 			<title>Chapter 5 : There Is No Shortage to Success</title>
 			<link>https://wandayusufalvian.github.io/post/chapter-5-the-10x-rules/</link>
-			<pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+			<pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
 			
 			<guid>https://wandayusufalvian.github.io/post/chapter-5-the-10x-rules/</guid>
 			<description>
@@ -26,7 +38,7 @@
 		<item>
 			<title>Chapter 4 : Success Is Your Duty</title>
 			<link>https://wandayusufalvian.github.io/post/chapter-4-the-10x-rules/</link>
-			<pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+			<pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
 			
 			<guid>https://wandayusufalvian.github.io/post/chapter-4-the-10x-rules/</guid>
 			<description>
