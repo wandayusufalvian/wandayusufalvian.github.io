@@ -94,14 +94,19 @@
 </ul>
 <p>it is tedious&hellip; <code>ColumnTransformer</code> let you do this without split the data.</p>
 <h3 id="here-are-3-steps-to-implement-columntransformer">Here are 3 steps to implement ColumnTransformer</h3>
-<p>example :
-you want to apply one hot encoding for column &ldquo;A&rdquo;, &ldquo;B&rdquo;, and &ldquo;C&rdquo;. 
-you want to apply minmaxscaler for column &ldquo;D&rdquo; and &ldquo;E&rdquo;
-you want to let the rest columns as it is</p>
+<p>example :</p>
+<ul>
+<li>you want to apply one hot encoding for column &ldquo;A&rdquo;, &ldquo;B&rdquo;, and &ldquo;C&rdquo;.</li>
+<li>you want to apply minmaxscaler for column &ldquo;D&rdquo; and &ldquo;E&rdquo;</li>
+<li>you want to let the rest columns as it is</li>
+</ul>
 <ol>
 <li>Determine list of columns
-columns1=[&ldquo;A,&ldquo;B,&ldquo;C&rdquo;]
-columns2=[&ldquo;D&rdquo;,&ldquo;E&rdquo;]</li>
+<ul>
+<li>columns1=[&ldquo;A,&ldquo;B,&ldquo;C&rdquo;]</li>
+<li>columns2=[&ldquo;D&rdquo;,&ldquo;E&rdquo;]</li>
+</ul>
+</li>
 <li>Create the transformer 
 each transformer consist of 3 parts : name of transformer, the transform method, and the list of column that will be transformed. you write this as tuple
 <div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">t <span style="color:#666">=</span> [(<span style="color:#4070a0">&#39;cat&#39;</span>, OneHotEncoder(), columns1),(<span style="color:#4070a0">&#39;num&#39;</span>, MinMaxScaler(), columns2)]
