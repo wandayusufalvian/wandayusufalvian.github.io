@@ -12,23 +12,11 @@
 		<atom:link href="https://wandayusufalvian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>machine-learning</title>
-			<link>https://wandayusufalvian.github.io/tags/machine-learning/</link>
+			<title>data-processing</title>
+			<link>https://wandayusufalvian.github.io/tags/data-processing/</link>
 			<pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/tags/machine-learning/</guid>
-			<description>
-				
-				
-				
-			</description>
-		</item>
-		<item>
-			<title>pandas</title>
-			<link>https://wandayusufalvian.github.io/tags/pandas/</link>
-			<pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-			
-			<guid>https://wandayusufalvian.github.io/tags/pandas/</guid>
+			<guid>https://wandayusufalvian.github.io/tags/data-processing/</guid>
 			<description>
 				
 				
@@ -41,18 +29,6 @@
 			<pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
 			
 			<guid>https://wandayusufalvian.github.io/tags/the-10x-rule-book/</guid>
-			<description>
-				
-				
-				
-			</description>
-		</item>
-		<item>
-			<title>scikit-learn</title>
-			<link>https://wandayusufalvian.github.io/tags/scikit-learn/</link>
-			<pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-			
-			<guid>https://wandayusufalvian.github.io/tags/scikit-learn/</guid>
 			<description>
 				
 				

@@ -3,12 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wandayusufalvian.github.io/tags/machine-learning/</loc>
-    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wandayusufalvian.github.io/tags/pandas/</loc>
+    <loc>https://wandayusufalvian.github.io/tags/data-processing/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://wandayusufalvian.github.io/post/machine-learning/map-new-value/</loc>
+    <loc>https://wandayusufalvian.github.io/post/data-processing/map-new-value/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,12 +43,7 @@
   </url>
   
   <url>
-    <loc>https://wandayusufalvian.github.io/post/machine-learning/column-transformer/</loc>
-    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wandayusufalvian.github.io/tags/scikit-learn/</loc>
+    <loc>https://wandayusufalvian.github.io/post/data-processing/column-transformer/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url>
   

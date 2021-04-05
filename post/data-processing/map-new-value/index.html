@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	
+	<meta name="generator" content="Hugo 0.80.0" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta property="og:title" content="Transform Dataframe Values Using Dictionary">
+	
+	
+	<meta name="author" content="Yusuf"><meta name="keywords" content="data-processing"><meta name="description" content="How to change values in dataframe column using dictionary"><meta property="og:title" content="Transform Dataframe Values Using Dictionary" />
+<meta property="og:description" content="How to change values in dataframe column using dictionary" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://wandayusufalvian.github.io/post/data-processing/map-new-value/" />
+<meta property="article:published_time" content="2021-04-05T00:00:00+00:00" />
+<meta property="article:modified_time" content="2021-04-05T00:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Transform Dataframe Values Using Dictionary"/>
+<meta name="twitter:description" content="How to change values in dataframe column using dictionary"/>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
+	<link rel="stylesheet" href="/css/katex.min.css" crossorigin="anonymous">
+	<script defer src="/js/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+	<script defer src="/js/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script><title>Transform Dataframe Values Using Dictionary | Yusuf</title></head>
+<body><header>
+	
+	<div id="avatar">
+		<a href="https://wandayusufalvian.github.io/">
+		  <img src="/img/imgs.jpg" alt="Yusuf">
+		</a>
+	</div>
+	
+	<div id="titletext"><h2 id="title"><a href="https://wandayusufalvian.github.io/">Yusuf</a></h2></div>
+	<div id="title-description"><p id="subtitle">independent thinker, problem solver, long life learner</p><div id="social">
+			<nav>
+				<ul>
+					<li><a href="https://github.com/wandayusufalvian"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="https://www.linkedin.com/in/wanda-yusuf-alvian-613086189/"><i title="Github" class="icons fab fa-linkedin"></i></a></li>
+					<li><a href="https://twitter.com/wyusufalvian"><i title="Github" class="icons fab fa-twitter"></i></a></li><li><a href="mailto:wyusufalvian@gmail.com"><i title="Email" class="icons fas fa-envelope"></i></a></li></ul>
+			</nav>
+		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">recent posts</a></li>
+				
+				<li><a href="/post">all posts</a></li>
+				
+				<li><a href="/tags">tags</a></li>
+				
+				<li><a href="/note">projects</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+	
+</header>
+<main><div class="post">
+	
+	<div class="author">
+	
+	</div>
+	<div class="post-header">
+	
+		<div class="meta">
+			
+			<div class="date">
+				<span class="day">05</span>
+				<span class="rest">Apr 2021</span>
+			</div>
+			
+		</div>
+		
+		<div class="matter">
+			<h1 class="title">Transform Dataframe Values Using Dictionary</h1>
+		</div>
+	</div>
+	<div class="markdown">
+		<p>how to change value in pandas column with new value that is stored in dictionary?</p>
+<p>let say i have Dataframe <code>data_census</code>. It has column <code>education</code> with values below:</p>
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">HS-grad         10501
+Some-college     7291
+Bachelors        5355
+Masters          1723
+Assoc-voc        1382
+11th             1175
+Assoc-acdm       1067
+10th              933
+7th-8th           646
+Prof-school       576
+9th               514
+12th              433
+Doctorate         413
+5th-6th           333
+1st-4th           168
+Preschool          51
+Name: education, dtype: int64 
+</code></pre></div><p>i want to change those categorical value as numerical using this dictionary :</p>
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">di<span style="color:#666">=</span>{
+    <span style="color:#4070a0">&#39;Doctorate&#39;</span>:<span style="color:#40a070">15</span>,
+    <span style="color:#4070a0">&#39;Masters&#39;</span>:<span style="color:#40a070">14</span>,
+    <span style="color:#4070a0">&#39;Bachelors&#39;</span>:<span style="color:#40a070">13</span>, 
+    <span style="color:#4070a0">&#39;Assoc-voc&#39;</span>:<span style="color:#40a070">12</span>, 
+    <span style="color:#4070a0">&#39;Assoc-acdm&#39;</span>:<span style="color:#40a070">12</span>,
+    <span style="color:#4070a0">&#39;Some-college&#39;</span>:<span style="color:#40a070">12</span>,
+    <span style="color:#4070a0">&#39;Prof-school&#39;</span>:<span style="color:#40a070">12</span>,
+    <span style="color:#4070a0">&#39;HS-grad&#39;</span>:<span style="color:#40a070">11</span>,
+    <span style="color:#4070a0">&#39;12th&#39;</span>:<span style="color:#40a070">10</span>, 
+    <span style="color:#4070a0">&#39;11th&#39;</span>:<span style="color:#40a070">9</span>,
+    <span style="color:#4070a0">&#39;10th&#39;</span>:<span style="color:#40a070">8</span>,
+    <span style="color:#4070a0">&#39;9th&#39;</span>:<span style="color:#40a070">7</span>, 
+    <span style="color:#4070a0">&#39;7th-8th&#39;</span>:<span style="color:#40a070">6</span>,
+    <span style="color:#4070a0">&#39;5th-6th&#39;</span>:<span style="color:#40a070">5</span>,
+    <span style="color:#4070a0">&#39;1st-4th&#39;</span>:<span style="color:#40a070">4</span>,
+    <span style="color:#4070a0">&#39;Preschool&#39;</span>:<span style="color:#40a070">3</span>
+}
+</code></pre></div><p>i can to that by using this code :</p>
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">data_census[<span style="color:#4070a0">&#39;education&#39;</span>]<span style="color:#666">=</span>data_census[<span style="color:#4070a0">&#39;education&#39;</span>]<span style="color:#666">.</span>map(di)
+</code></pre></div><p>now we can see the result using <code>data_census['education'].value_counts()</code> :</p>
+<div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">11    10501
+12    10316
+13     5355
+14     1723
+9      1175
+8       933
+6       646
+7       514
+10      433
+15      413
+5       333
+4       168
+3        51
+</code></pre></div>
+	</div>
+	
+	
+	
+	
+	
+		
+	
+		
+	
+	
+	
+	<div class="tags">
+		<div class="taxosfloating_left">
+			<p>Tags</p>
+		</div>
+		<div class="termsfloating_right">
+			<p>
+			
+			
+			
+			<a href="/tags/data-processing/"> data-processing </a>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			</p>
+		</div>
+		<div class="clearit"></div>
+		
+		
+		
+		
+		
+	</div>
+</div>
+
+  </main>
+<footer>
+	 © Copyright notice | <a href="https://github.com/dataCobra/hugo-vitae">Vitae</a> theme for <a href="https://gohugo.io">Hugo</a> 
+	
+	
+	
+</footer>
+
+
+</body>
+</html>
