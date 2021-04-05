@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wandayusufalvian.github.io/post/chapter-7-the-10x-rules/</loc>
-    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+    <loc>https://wandayusufalvian.github.io/tags/machine-learning/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wandayusufalvian.github.io/tags/pandas/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://wandayusufalvian.github.io/post/</loc>
-    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://wandayusufalvian.github.io/tags/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wandayusufalvian.github.io/post/machine-learning/map-new-value/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wandayusufalvian.github.io/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-7-the-10x-rules/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,52 +43,47 @@
   </url>
   
   <url>
-    <loc>https://wandayusufalvian.github.io/</loc>
-    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wandayusufalvian.github.io/post/chapter-6-the-10x-rules/</loc>
+    <loc>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-6-the-10x-rules/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wandayusufalvian.github.io/post/column-transformer/</loc>
+    <loc>https://wandayusufalvian.github.io/post/machine-learning/column-transformer/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wandayusufalvian.github.io/tags/machine-learning/</loc>
+    <loc>https://wandayusufalvian.github.io/tags/scikit-learn/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wandayusufalvian.github.io/post/chapter-5-the-10x-rules/</loc>
+    <loc>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-5-the-10x-rules/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wandayusufalvian.github.io/post/chapter-4-the-10x-rules/</loc>
+    <loc>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-4-the-10x-rules/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wandayusufalvian.github.io/post/chapter-3-the-10x-rule/</loc>
+    <loc>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-3-the-10x-rule/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wandayusufalvian.github.io/post/chapter-2-the-10x-rule/</loc>
+    <loc>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-2-the-10x-rule/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wandayusufalvian.github.io/post/chapter-1-the-10x-rule/</loc>
+    <loc>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-1-the-10x-rule/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wandayusufalvian.github.io/post/directory-permission/</loc>
+    <loc>https://wandayusufalvian.github.io/post/linux/directory-permission/</loc>
     <lastmod>2021-03-19T00:00:00+00:00</lastmod>
   </url>
   

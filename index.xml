@@ -7,16 +7,28 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="https://wandayusufalvian.github.io/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
+			<title>Transform Dataframe Values Using Dictionary</title>
+			<link>https://wandayusufalvian.github.io/post/machine-learning/map-new-value/</link>
+			<pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://wandayusufalvian.github.io/post/machine-learning/map-new-value/</guid>
+			<description>
+				
+				How to change values in dataframe column using dictionary
+				
+			</description>
+		</item>
+		<item>
 			<title>Chapter 7 : Four Degrees Of Action</title>
-			<link>https://wandayusufalvian.github.io/post/chapter-7-the-10x-rules/</link>
+			<link>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-7-the-10x-rules/</link>
 			<pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/post/chapter-7-the-10x-rules/</guid>
+			<guid>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-7-the-10x-rules/</guid>
 			<description>
 				
 				Summary from Chapter 7 of The 10X Rule Book
@@ -25,10 +37,10 @@
 		</item>
 		<item>
 			<title>Chapter 6 : Assume Control For Everything</title>
-			<link>https://wandayusufalvian.github.io/post/chapter-6-the-10x-rules/</link>
+			<link>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-6-the-10x-rules/</link>
 			<pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/post/chapter-6-the-10x-rules/</guid>
+			<guid>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-6-the-10x-rules/</guid>
 			<description>
 				
 				Summary from Chapter 6 of The 10X Rule Book
@@ -37,10 +49,10 @@
 		</item>
 		<item>
 			<title>ColumnTransformer Implementation</title>
-			<link>https://wandayusufalvian.github.io/post/column-transformer/</link>
+			<link>https://wandayusufalvian.github.io/post/machine-learning/column-transformer/</link>
 			<pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/post/column-transformer/</guid>
+			<guid>https://wandayusufalvian.github.io/post/machine-learning/column-transformer/</guid>
 			<description>
 				
 				Quick Implementation of Column Transformer
@@ -49,10 +61,10 @@
 		</item>
 		<item>
 			<title>Chapter 5 : There Is No Shortage to Success</title>
-			<link>https://wandayusufalvian.github.io/post/chapter-5-the-10x-rules/</link>
+			<link>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-5-the-10x-rules/</link>
 			<pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/post/chapter-5-the-10x-rules/</guid>
+			<guid>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-5-the-10x-rules/</guid>
 			<description>
 				
 				Summary from Chapter 5 of The 10X Rule Book
@@ -61,10 +73,10 @@
 		</item>
 		<item>
 			<title>Chapter 4 : Success Is Your Duty</title>
-			<link>https://wandayusufalvian.github.io/post/chapter-4-the-10x-rules/</link>
+			<link>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-4-the-10x-rules/</link>
 			<pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/post/chapter-4-the-10x-rules/</guid>
+			<guid>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-4-the-10x-rules/</guid>
 			<description>
 				
 				Summary from Chapter 4 of The 10X Rule Book
@@ -73,10 +85,10 @@
 		</item>
 		<item>
 			<title>Chapter 3 : What Is Success</title>
-			<link>https://wandayusufalvian.github.io/post/chapter-3-the-10x-rule/</link>
+			<link>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-3-the-10x-rule/</link>
 			<pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/post/chapter-3-the-10x-rule/</guid>
+			<guid>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-3-the-10x-rule/</guid>
 			<description>
 				
 				Summary from Chapter 3 of The 10X Rule Book
@@ -85,10 +97,10 @@
 		</item>
 		<item>
 			<title>Chapter 2 : Why the 10X Rules Is Vital</title>
-			<link>https://wandayusufalvian.github.io/post/chapter-2-the-10x-rule/</link>
+			<link>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-2-the-10x-rule/</link>
 			<pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/post/chapter-2-the-10x-rule/</guid>
+			<guid>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-2-the-10x-rule/</guid>
 			<description>
 				
 				Summary from Chapter 2 of The 10X Rule Book
@@ -97,10 +109,10 @@
 		</item>
 		<item>
 			<title>Chapter 1 : What Is the 10X Rule</title>
-			<link>https://wandayusufalvian.github.io/post/chapter-1-the-10x-rule/</link>
+			<link>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-1-the-10x-rule/</link>
 			<pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/post/chapter-1-the-10x-rule/</guid>
+			<guid>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-1-the-10x-rule/</guid>
 			<description>
 				
 				Summary from Chapter 1 of The 10X Rule Book
@@ -109,10 +121,10 @@
 		</item>
 		<item>
 			<title>Directory Permission in Linux</title>
-			<link>https://wandayusufalvian.github.io/post/directory-permission/</link>
+			<link>https://wandayusufalvian.github.io/post/linux/directory-permission/</link>
 			<pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/post/directory-permission/</guid>
+			<guid>https://wandayusufalvian.github.io/post/linux/directory-permission/</guid>
 			<description>
 				
 				Short Introduction for Directory Permission in Linux

@@ -7,10 +7,34 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="https://wandayusufalvian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>machine-learning</title>
+			<link>https://wandayusufalvian.github.io/tags/machine-learning/</link>
+			<pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://wandayusufalvian.github.io/tags/machine-learning/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>pandas</title>
+			<link>https://wandayusufalvian.github.io/tags/pandas/</link>
+			<pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://wandayusufalvian.github.io/tags/pandas/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
 		<item>
 			<title>The 10X Rule Book</title>
 			<link>https://wandayusufalvian.github.io/tags/the-10x-rule-book/</link>
@@ -24,11 +48,11 @@
 			</description>
 		</item>
 		<item>
-			<title>machine-learning</title>
-			<link>https://wandayusufalvian.github.io/tags/machine-learning/</link>
+			<title>scikit-learn</title>
+			<link>https://wandayusufalvian.github.io/tags/scikit-learn/</link>
 			<pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
 			
-			<guid>https://wandayusufalvian.github.io/tags/machine-learning/</guid>
+			<guid>https://wandayusufalvian.github.io/tags/scikit-learn/</guid>
 			<description>
 				
 				
