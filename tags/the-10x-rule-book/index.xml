@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="https://wandayusufalvian.github.io/tags/the-10x-rule-book/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Chapter 8 : Average Is A Failing Formula</title>
+			<link>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-8-the-10x-rules/</link>
+			<pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-8-the-10x-rules/</guid>
+			<description>
+				
+				Summary from Chapter 8 of The 10X Rule Book
+				
+			</description>
+		</item>
 		<item>
 			<title>Chapter 7 : Four Degrees Of Action</title>
 			<link>https://wandayusufalvian.github.io/post/the-10x-rule-book/chapter-7-the-10x-rules/</link>
