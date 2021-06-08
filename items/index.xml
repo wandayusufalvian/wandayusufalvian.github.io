@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Items on yusuf&#39;s projects</title>
+    <link>https://wandayusufalvian.github.io/items/</link>
+    <description>Recent content in Items on yusuf&#39;s projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jun 2021 08:34:38 +0700</lastBuildDate><atom:link href="https://wandayusufalvian.github.io/items/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dark Mode Website Css</title>
+      <link>https://wandayusufalvian.github.io/items/the-10x-rules/</link>
+      <pubDate>Tue, 08 Jun 2021 08:34:38 +0700</pubDate>
+      
+      <guid>https://wandayusufalvian.github.io/items/the-10x-rules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GBDT Hyperparameter Tuning Benchmark</title>
+      <link>https://wandayusufalvian.github.io/items/dark-mode-website-css/</link>
+      <pubDate>Tue, 08 Jun 2021 08:34:38 +0700</pubDate>
+      
+      <guid>https://wandayusufalvian.github.io/items/dark-mode-website-css/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

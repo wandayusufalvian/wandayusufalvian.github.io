@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Tags on Yusuf</title>
-		<link>https://wandayusufalvian.github.io/tags/</link>
-		<description>Recent content in Tags on wandayusufalvian.github.io</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>en-us</language>
-		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
-		<lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate>
-		
-		<atom:link href="https://wandayusufalvian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Book Summary</title>
-			<link>https://wandayusufalvian.github.io/tags/book-summary/</link>
-			<pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-			
-			<guid>https://wandayusufalvian.github.io/tags/book-summary/</guid>
-			<description>
-				
-				
-				
-			</description>
-		</item>
-		
-	</channel>
+  <channel>
+    <title>Tags on yusuf&#39;s projects</title>
+    <link>https://wandayusufalvian.github.io/tags/</link>
+    <description>Recent content in Tags on yusuf&#39;s projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jun 2021 08:34:38 +0700</lastBuildDate><atom:link href="https://wandayusufalvian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>machine-learning</title>
+      <link>https://wandayusufalvian.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 08 Jun 2021 08:34:38 +0700</pubDate>
+      
+      <guid>https://wandayusufalvian.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book Summary</title>
+      <link>https://wandayusufalvian.github.io/tags/book-summary/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://wandayusufalvian.github.io/tags/book-summary/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
