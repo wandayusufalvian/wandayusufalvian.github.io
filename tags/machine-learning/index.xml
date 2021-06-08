@@ -13,7 +13,7 @@
       <pubDate>Tue, 08 Jun 2021 08:34:38 +0700</pubDate>
       
       <guid>https://wandayusufalvian.github.io/items/hyperparameter-tuning/</guid>
-      <description></description>
+      <description> implement BOHB, state of the art method for Hyperparameter Optimization (HPO) Method Compare to 3 other HPO method : random search, grid search, and bayes search  </description>
     </item>
     
   </channel>

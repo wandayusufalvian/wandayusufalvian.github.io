@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book Summary on yusuf&#39;s projects</title>
+    <title>book-summary on yusuf&#39;s projects</title>
     <link>https://wandayusufalvian.github.io/tags/book-summary/</link>
-    <description>Recent content in Book Summary on yusuf&#39;s projects</description>
+    <description>Recent content in book-summary on yusuf&#39;s projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wandayusufalvian.github.io/tags/book-summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jun 2021 08:34:38 +0700</lastBuildDate><atom:link href="https://wandayusufalvian.github.io/tags/book-summary/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Summary of &#39;The 10x Rules&#39; Book </title>
-      <link>https://wandayusufalvian.github.io/post/the-10x-rules/</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      <title>The 10x Rules</title>
+      <link>https://wandayusufalvian.github.io/items/the-10x-rules/</link>
+      <pubDate>Tue, 08 Jun 2021 08:34:38 +0700</pubDate>
       
-      <guid>https://wandayusufalvian.github.io/post/the-10x-rules/</guid>
-      <description>These are summaries from 22 chapters of The 10 Rule Book
-Chapter 1 : What Is the 10X Rule  sufficient levels of motivation, work ethic, and follow-up are in shortage today. ability to estimate the right amount of effort necessary for you to achieve a goal is important. setting the right targets, estimating the mandatory effort, and operating at the right level of actions are the only things that will guarantee success the 10X Rule is based on understanding how much effort and thought are required to get anything done sucessfully chances are that if you look back over your life, you will see that you have wildly underestimated both the actions and reasoning necessary to accomplish any endeavor to the point where it could be labeled successful.</description>
+      <guid>https://wandayusufalvian.github.io/items/the-10x-rules/</guid>
+      <description> summary of The 10X Rules Book in nutshell : &amp;ldquo;Success is your duty and you have to work beyond average (10x) to be successful&amp;rdquo;  </description>
     </item>
     
   </channel>
