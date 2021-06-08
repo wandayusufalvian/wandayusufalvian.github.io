@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algorithm on yusuf&#39;s projects</title>
+    <link>https://wandayusufalvian.github.io/tags/algorithm/</link>
+    <description>Recent content in algorithm on yusuf&#39;s projects</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jun 2021 14:15:26 +0700</lastBuildDate><atom:link href="https://wandayusufalvian.github.io/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grokking Algorithms</title>
+      <link>https://wandayusufalvian.github.io/items/grokking-algorithms/</link>
+      <pubDate>Tue, 08 Jun 2021 14:15:26 +0700</pubDate>
+      
+      <guid>https://wandayusufalvian.github.io/items/grokking-algorithms/</guid>
+      <description> summary of &amp;ldquo;Grokking Algorithms&amp;rdquo; Book i think this is the best &amp;ldquo;short&amp;rdquo; book to review Algorithm lecture that taught in College if you want to review Algorithm lecture, i recommend this book  </description>
+    </item>
+    
+  </channel>
+</rss>
